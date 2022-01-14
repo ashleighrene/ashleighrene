@@ -1,6 +1,6 @@
 ## Hello and Welcome to My Page! :octocat:
 
-### Lifelong learner with a past in healthcare :hospital: and foreign language.  :airplane:
+### Lifelong learner with a past in healthcare and foreign language. 
 
 #### I am working on:
    - Re-building sites incorporating React
@@ -11,6 +11,8 @@
 ### I like to play TTRPGs, hike, cook, read, and knit. :evergreen_tree:
 
 ### Feel free to reach out with any questions on my linkedin!  :mailbox:
+
+________________________________________________________________________________________________
 
 ##### -Languages and Libraries:
 
@@ -23,7 +25,9 @@
 ##### -Tools:
 <img src="https://camo.githubusercontent.com/9da148b6bfbeebe48d20bed6b37e46d7c2af6d089f75a33df969870afed83693/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="VSCode" data-canonical-src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&amp;logo=visual-studio-code&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/a5067978ddd6241474f6bf2c39751e82e5d2a2532c2d7cb8f464679d83637263/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" alt="Postman" data-canonical-src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&amp;logo=postman&amp;logoColor=white" style="max-width: 100%;"><img src="https://camo.githubusercontent.com/69329610165ec0d48ad5df4dee2316fa85ea44907a39ea390c1e30f2fe90dfaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536c61636b2d3441313534423f7374796c653d666c6174266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465" alt="Slack" data-canonical-src="https://img.shields.io/badge/-Slack-4A154B?style=flat&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;">
 
+_______________________________________________________________________________________________________
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleighrene&layout=compact)](https://github.com/ashleighrene/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleighrene&layout=compact)](https://github.com/ashleighrene/github-readme-stats)[![Ashleigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleighrene)](https://github.com/ashleighrene/github-readme-stats)
+[![Code Wars Badge](https://www.codewars.com/users/ashleighrene/badges/micro)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
