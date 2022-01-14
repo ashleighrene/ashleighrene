@@ -1,3 +1,5 @@
+
+
 ## Hello and Welcome to My Page! :octocat:
 
 ### Lifelong learner with a past in healthcare and foreign language. 
@@ -27,7 +29,9 @@ ________________________________________________________________________________
 
 _______________________________________________________________________________________________________
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleighrene&layout=compact)](https://github.com/ashleighrene/github-readme-stats)[![Ashleigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleighrene)](https://github.com/ashleighrene/github-readme-stats)
-![Code Wars Badge](https://www.codewars.com/users/ashleighrene/badges/micro)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashleighrene&layout=compact)](https://github.com/ashleighrene/github-readme-stats)
+[![Ashleigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashleighrene)](https://github.com/ashleighrene/github-readme-stats)
+________________________________________________________________________________________________________
 
+![Code Wars Badge](https://www.codewars.com/users/ashleighrene/badges/micro)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
