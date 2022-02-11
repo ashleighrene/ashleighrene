@@ -5,10 +5,10 @@
 ### Lifelong learner with a past in healthcare and foreign language. 
 
 #### I am working on:
-   - Re-building sites incorporating React
+   - Building a mobile-first portfolio page to showcase my projects.
    - A hangman-style game using characters from Nintendo's Animal Crossing New Horizons.
-   - A functional and beatiful version of tic-tac-toe.
    - A dynamic online marketplace template using React and API fetch requests.
+   - A Food Ordering app using React, Next.js, MongoDB, Mongoose, and Express.
 
 ### I like to play Tabletop games, hike, cook, read, and knit. :evergreen_tree:
 
