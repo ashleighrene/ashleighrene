@@ -33,4 +33,4 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________
 
 ![Code Wars Badge](https://www.codewars.com/users/ashleighrene/badges/micro)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
