@@ -5,7 +5,7 @@
 ### Lifelong learner with a past in healthcare and foreign language. 
 
 #### I am working on:
-   - Building a mobile-first portfolio page to showcase my projects.
+   - Building a scrolling portfolio page to showcase my projects.
    - A hangman-style game using characters from Nintendo's Animal Crossing New Horizons.
    - A dynamic online marketplace template using React and API fetch requests.
    - A Food Ordering app using React, Next.js, MongoDB, Mongoose, and Express.
