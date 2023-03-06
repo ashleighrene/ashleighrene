@@ -6,7 +6,7 @@
 
 #### I am working on:
    - Increasing my knowledge of SQL and Tableau.
-   - Creating and Updating data-driven projects for a new portfolio.
+   - Creating and updating data-driven projects for a new portfolio.
    - Building a scrolling portfolio page to showcase my projects.
    - A hangman-style game using characters from Nintendo's Animal Crossing New Horizons.
    - A dynamic online marketplace template using React and API fetch requests.
