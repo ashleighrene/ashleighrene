@@ -8,7 +8,7 @@
    - Increasing my knowledge of SQL and Tableau.
    - Creating and updating data-driven projects for a new portfolio.
 
-### I like to play Tabletop games, hike, cook, read, and knit. :evergreen_tree:
+### I like to play tabletop games, hike, cook, read, and knit. :evergreen_tree:
 
 ### Feel free to reach out with any questions on my linkedin!  :mailbox:
 
