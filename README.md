@@ -5,7 +5,7 @@
 ### Lifelong learner with a past in healthcare and foreign language. 
 
 #### I am working on:
-   - Increasing my knowledge of SQL and Tableau.
+   - Increasing my knowledge of SQL, React, and MongoDB.
    - Creating and updating data-driven projects for a new portfolio.
 
 ### I like to play tabletop games, hike, cook, read, and knit. :evergreen_tree:
